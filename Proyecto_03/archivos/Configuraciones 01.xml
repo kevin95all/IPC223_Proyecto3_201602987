@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<configuracion>
+	<perfiles>
+		<perfil>
+			<nombre>Deportista</nombre>
+			<palabrasClave>
+				<palabra>fútbol</palabra>
+				<palabra>tenis</palabra>
+				<palabra>gym</palabra>
+				<palabra>olimpiada</palabra>
+				<palabra>estadio</palabra>
+			</palabrasClave>
+		</perfil>
+		<perfil>
+			<nombre>Salud</nombre>
+			<palabrasClave>
+				<palabra>gym</palabra>
+				<palabra>pesas</palabra>
+				<palabra>ejercicio</palabra>
+				<palabra>vitaminas</palabra>
+				<palabra>dieta</palabra>
+			</palabrasClave>
+		</perfil>
+	</perfiles>
+	<descartadas>
+		<palabra>a</palabra>
+		<palabra>un</palabra>
+		<palabra>una</palabra>
+		<palabra>por</palabra>
+		<palabra>que</palabra>
+		<palabra>no</palabra>
+	</descartadas>
+</configuracion>
